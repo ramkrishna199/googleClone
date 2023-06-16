@@ -80,8 +80,8 @@ const SearchPage = () => {
                 </div>
             </div>
 
-            
-            {/* Body search reasult */}
+
+
             {term && (
                 <div className="searchPage__results">
                     <p className="searchPage__resultsCount">
